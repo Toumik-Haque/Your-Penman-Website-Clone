@@ -1,6 +1,6 @@
 🖋️ Clone of Your Penman Website (Homepage)
 
-A clean and responsive homepage clone of the Your Penman website, built using only HTML and CSS. This project was created as a frontend practice task to improve my skills in layout design, CSS styling, and responsive web development.
+A clean homepage clone of the Your Penman website, built using only HTML and CSS. This project was created as a frontend practice task to improve my skills in layout design, CSS styling, and responsive web development.
 
 
 🔍 Project Overview
